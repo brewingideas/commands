@@ -12,3 +12,12 @@ Push all your changes to a remote server
 
 git pull
 Get all new changes from a remote server
+
+git status
+Shows the current changes and updates
+
+git diff
+Shows the changes line by line
+
+git log
+Shows a log of commits
