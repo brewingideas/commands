@@ -1,0 +1,14 @@
+git add file.rb
+Add a file to git
+
+git add .
+Add everything to git
+
+git commit -am "Commit message"
+Add and stage changes to a commit
+
+git push
+Push all your changes to a remote server
+
+git pull
+Get all new changes from a remote server

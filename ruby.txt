@@ -1,0 +1,8 @@
+ruby file.rb
+Run this ruby file
+
+ruby -c file.rb
+Check this file for ruby errors
+
+ruby -v
+Find out the version of ruby

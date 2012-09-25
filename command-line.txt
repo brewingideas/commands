@@ -1,0 +1,14 @@
+cd folder
+Change directory
+
+mkdir newfolder
+Make a new folder
+
+ls
+List all files and folders
+
+cd ..
+Move to the parent directory
+
+pwd
+The file path of the current directory
